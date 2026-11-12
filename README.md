@@ -1,50 +1,42 @@
-# Hi, I'm Ruiqi
+# Hi, I'm Ruiqi 👋
 
-**AI Applications · Data Science · Databases & Analytics**
+I'm interested in what we can build with AI—and the data, databases, and thoughtful design that make it useful.
 
-I'm interested in building practical AI applications that help people find information, automate workflows, and make better decisions. My background spans data science, databases, data analytics, and product development, with experience connecting technical solutions to real business needs.
+My background brings together **data science, databases, analytics, and product development**. I enjoy connecting these areas: turning scattered information into something searchable, exploring patterns in data, and building tools that make everyday work easier.
 
-I've worked with Python and SQL for data preparation and analysis, built BI dashboards, and developed projects involving AI retrieval, machine learning, and data pipelines. I enjoy working across the process—from organizing data and designing a database schema to building models and communicating results.
+## What interests me
 
-## Skills & tools
+- **AI that works with useful context** — connecting models to information, sources, and tools.
+- **The data behind the application** — organizing, querying, and preparing data so it can support something useful.
+- **From analysis to action** — making results understandable through visualizations, interfaces, and practical workflows.
 
-| Area | Skills & tools |
+I'm curious about the whole journey, from a SQL query or an early experiment to an application someone can actually use.
+
+## My toolbox
+
+| | Technologies & skills |
 | --- | --- |
-| Programming | Python, SQL, R |
-| Databases & data workflows | PostgreSQL, pgvector, database schema design, data warehousing, data cleaning, API integration, OCR ingestion |
-| AI applications | Model Context Protocol (MCP), semantic search, reranking, retrieval systems, workflow automation |
-| Machine learning & data science | PyTorch, scikit-learn, LightGBM, pandas, NumPy, feature engineering, time-series forecasting, model evaluation |
-| Analytics & visualization | Tableau, Power BI, Matplotlib, dashboard development, business reporting |
-| Development & product tools | Git, Azure, Visio, requirements analysis, technical documentation |
+| Languages | Python · SQL · R |
+| Databases & retrieval | PostgreSQL · pgvector · schema design · semantic search · reranking |
+| Data science & ML | pandas · NumPy · scikit-learn · LightGBM · PyTorch |
+| Analytics & visualization | Tableau · Power BI · Matplotlib |
+| Building applications | MCP · API integration · OCR pipelines · Git |
 
-## Selected projects
+Alongside the technical work, I bring experience in product development, requirements analysis, and communicating with business teams.
 
-### Swiss Grounding MCP — AI Retrieval Service
+## A few things I've explored
 
-Built an MCP server connecting AI assistants to searchable Swiss public information. The project indexed 40,000+ documents from 252 official sources using Python, PostgreSQL/pgvector, semantic search, and reranking, with location-aware retrieval and links to source passages.
+**Helping AI find the right information**  
+Swiss Grounding MCP connects AI assistants to Swiss public information through a searchable retrieval service. It brings together my interests in AI applications, databases, and access to information.
 
-**Recognition:** 2nd place and HPE Company Award at the Swiss AI Weeks Zurich Hackathon, 2026.
+**Finding patterns in changing markets**  
+[Electricity Price Forecasting](https://github.com/looooopiii/Figg_Challenge) explores how market, weather, and calendar data can inform predictions—and how to think about uncertainty alongside a forecast.
 
-### [Electricity Price Forecasting](https://github.com/looooopiii/Figg_Challenge)
+**Working with different representations of data**  
+[Tooth Presence Classification](https://github.com/looooopiii/Tooth-Presence-Classification) explores deep learning with both 2D images and 3D point clouds.
 
-Developed a forecasting pipeline for electricity prices in Germany–Luxembourg and Spain, combining data collection, feature engineering, LightGBM quantile regression, and visual analysis.
+## What I'd like to build more of
 
-**Recognition:** 2nd place at the Frigg & ACE Hackathon, 2026.
+Useful AI tools, better ways to explore information, and applications where data science meets everyday needs.
 
-### Document Fraud Detection
-
-Led system architecture for a procurement document fraud detection project, including database schema design, OCR ingestion, and rules for identifying potential inconsistencies across documents.
-
-### [Tooth Presence Classification](https://github.com/looooopiii/Tooth-Presence-Classification)
-
-A University of Zurich master's project exploring 2D ResNet and 3D PointNet-style approaches to tooth presence classification, with data augmentation and evaluation workflows in PyTorch.
-
-## Professional background
-
-Previously worked as a **Data Analyst & Product Manager** in financial services, combining Python and SQL analysis, BI dashboards, and product development. My experience includes AI-assisted outreach automation and translating business requirements into data products.
-
-I also bring experience in enterprise system integration, technical support, and documentation.
-
-## Interests
-
-Practical AI applications, information retrieval, databases, data science, and tools that make complex information more useful and accessible.
+I'm open to opportunities and collaborations across AI applications, data science, and analytics.
